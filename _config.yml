@@ -10,8 +10,8 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Header picture from <a href="https://commons.wikimedia.org/wiki/File:Watercolor_painting_of_the_earth_with_hot_gradient.jpg">Martin Eklund, CC0, via Wikimedia Commons</a>.
 
-url: ecosystemic-ai.github.io # the base hostname & protocol for your site
-#baseurl: / # the subpath of your site, e.g. /blog/
+url: # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
