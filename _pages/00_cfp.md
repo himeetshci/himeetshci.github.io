@@ -48,8 +48,6 @@ This workshop is open to everyone and does not intend to be a one-off event. Our
   </center>
   </table>
 
-</table>
-
 ### Panelists
 
 TBC!
