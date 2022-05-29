@@ -23,11 +23,12 @@ Mapping various couplings between the technical, social and ecological, provides
 This workshop is open to everyone and does not intend to be a one-off event. Our long term plan is to create an interest group around these topics, learning from each other and building a community that can, together, replace techno-centric perspectives with socio-ecological-technical ones. 
 
 
+This is how to add a reference in case we want to add some.[^4] 
+
 
 ### Key Dates
 
 * **Workshop Day**: Monday-Tuesday June 13-14th, 2022, virtually and in person (HHAI, Vrije Universiteit Amsterdam)
-
 
 
 ### Speakers
@@ -36,12 +37,18 @@ This workshop is open to everyone and does not intend to be a one-off event. Our
   <center>
   <tr>
     <td style="text-align:center"><img src="assets/img/paola.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://cocosci.princeton.edu/tom/griffiths_0_0.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://www.cs.toronto.edu/~cmaddis/pic/HEADSHOT_IAScirc.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://dsideweb.github.io/images/nyalleng-moorosi.jpg" height="175"></td>
 
 
 
   </tr>
   <tr>
   <td style="text-align:center"><a href="http://eliassi.org/">Paola Ricaurte</a> <br> Tecnológico de Monterrey, Harvard </td>
+   <td style="text-align:center"><a href="https://cocosci.princeton.edu/tom/index.php">Tom Griffiths</a> <br> Princeton</td>
+   <td style="text-align:center"><a href="https://www.cs.toronto.edu/~cmaddis/">Chris Maddison</a> <br> Toronto </td>
+   <td style="text-align:center"><a href="">Nyalleng Moorosi</a> <br> Google AI </td>
 
 
   </tr>
@@ -55,12 +62,54 @@ This workshop is open to everyone and does not intend to be a one-off event. Our
     <td style="text-align:center"><img src="https://assets.pubpub.org/ecmq36io/51583152278875.jpg" height="175"></td>
 
 
+
+  </tr>
+  <tr>
+  <td style="text-align:center"><a href="http://elarosca.net/">Mihaela Rosca</a> <br>DeepMind</td>
+   <td style="text-align:center"><a href="https://dajmcdon.github.io/">Daniel McDonald</a> <br> British Columbia </td>
+   <td style="text-align:center"><a href="https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/professorships/foundations-of-machine-learning-systems/">Robert Williamson</a> <br> Tübingen </td>
+
+
   </tr>
 </table>
 
 ### Panelists
 
-TBC!
+<table style="width:100%;border-bottom: 1px solid black;">
+  <center>
+  <tr>
+    <td style="text-align:center"><img src="https://faculty.utah.edu/bytes/image.hml?id=u0548623&fullsize=true" height="175"></td>
+    <td style="text-align:center"><img src="https://i2.wp.com/kasirzadeh.org/wp-content/uploads/2021/11/FullSizeRender.jpg?resize=300%2C252" height="175"></td>
+  <td style="text-align:center"><img src="https://pbs.twimg.com/profile_images/634497700550062082/ZaIVRC0u_400x400.jpg" height="175"></td>
+
+  </tr>
+  <tr>
+   <td style="text-align:center"><a href="https://vivo.brown.edu/display/suresh">Suresh Venkatasubramanian</a> <br> Brown </td>
+   <td style="text-align:center"><a href="https://kasirzadeh.org/">Atoosa Kasirzadeh</a> <br> DeepMind</td>
+   <td style="text-align:center"><a href="https://javiergonzalezh.github.io/">Javier Gonzalez</a> <br> MSR </td>
+
+
+  </tr>
+  </center>
+  </table>
+
+  <table style="width:100%;border-bottom: 1px solid black;">
+  <tr>
+  <td style="text-align:center"><img src="https://annargrs.github.io/assets/images/aro.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://emtiyaz.github.io/emti_2021.jpg" height="175"></td>
+
+
+
+  </tr>
+  <tr>
+  <td style="text-align:center"><a href="https://annargrs.github.io/">Anna Rogers</a> <br>Copenhagen</td>
+  <td style="text-align:center"><a href="https://emtiyaz.github.io/">Emtiyaz Khan</a> <br> RIKEN </td>
+
+
+  </tr>
+</table>
+
+The panel will be moderated by [Robert C. Williamson](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/professorships/foundations-of-machine-learning-systems/) and will take place between **8:45-9:45 EST**.
 
 ### Organizers
 
@@ -72,5 +121,11 @@ TBC!
 
 ### Contact
 
-For any question or suggestion, please contact us at: <ecosystems.ai@gmail.com>
+For any question or suggestion, please contact us at: <ecosystemic_ai@gmail.com>
 
+### References
+
+[^1]: Kuhn, Thomas S. “The Structure of Scientific Revolutions.” (1962)
+[^2]: Dirac PAM. The Evolution of the Physicist’s Picture of Nature. Sci Am. 1963;208: 45.
+[^3]: LeCun and Hinton mention how their papers (and their colleagues’) were routinely rejected from being published based on their subject: [https://youtu.be/vShMxxqtDDs?t=6m59s](https://youtu.be/vShMxxqtDDs?t=6m59s)
+[^4]: Engler, Gideon. "Aesthetics in science and in art." The British Journal of Aesthetics 30 (1990): 24-34.
