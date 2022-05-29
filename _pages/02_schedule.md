@@ -10,7 +10,7 @@ description: The (eco)systemic challenges in AI
 
    | Opening remarks and interactive activity  |  Introducing the workshop and where we come from, then an interactive activity based on social-ecological-technical thinking:
      We will leverage a social-ecological-technical systems framework in investigating the (eco)systemic challenges of particular algorithmic systems. Specifically, we will explore what are existing challenges and how they could be potentially addressed through an algorithmic impact assessment process.  | 2:00-3:00pm |
-   -----------
+   
    
    |  Panel and Discussion  | What is missing in current AI discourse and practice? Further primed by the subtitle of the workshop.
         Michelle Thorne and/or Becky Kazansky (confirmed) - report How Digital Rights and Climate Justice Intersect
