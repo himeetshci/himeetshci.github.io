@@ -48,14 +48,6 @@ This workshop is open to everyone and does not intend to be a one-off event. Our
   </center>
   </table>
 
-  <table style="width:100%;border-bottom: 1px solid black;">
-  <tr>
-  <td style="text-align:center"><img src="https://avatars.githubusercontent.com/u/2264591?v=4" height="175"></td>
-  <td style="text-align:center"><img src="https://avatars.githubusercontent.com/u/20528078?v=4" height="175"></td>
-    <td style="text-align:center"><img src="https://assets.pubpub.org/ecmq36io/51583152278875.jpg" height="175"></td>
-
-
-  </tr>
 </table>
 
 ### Panelists
