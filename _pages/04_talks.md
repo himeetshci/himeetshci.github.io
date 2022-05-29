@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /talks/
-title: The (eco)systemic challenges in AI
-description: Talks
+title: Talks
+description: The (eco)systemic challenges in AI
 ---
 
 ### Invited Talks
