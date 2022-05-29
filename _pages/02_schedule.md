@@ -18,12 +18,9 @@ description: The (eco)systemic challenges in AI
         Fruitpunch AI (tbc) - linking organizations and engineers around AI projects that address environmental challenges: https://www.fruitpunch.ai/     | 3:00-4:00pm | 
    
    | Inaugural Keynotes  | How can/should we meaningfully address (eco)systemic challenges related to AI?
-        Speakers:
-            Paola Ricaurte (confirmed) - , engaged work with communities in Mexico.
-            Khalid Kadir (tbc) - engineering through a social and environmental justice lens, politics of engineering, deep experience in education and working with communities | 4:00-5:00pm | 
+        Speakers: Paola Ricaurte (confirmed) - , engaged work with communities in Mexico. Khalid Kadir (tbc) - engineering through a social and environmental justice lens, politics of engineering, deep experience in education and working with communities | 4:00-5:00pm | 
    
     
-   
     |    Discussion | Aiming to capture lessons for this community moving forward    | 5:00-5:30pm |
 
 
