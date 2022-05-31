@@ -26,7 +26,7 @@ This workshop is open to everyone and does not intend to be a one-off event. Our
 
 ### Key Dates
 
-* **Workshop Day**: Monday-Tuesday June 13-14th, 2022, virtually and in person (HHAI, Vrije Universiteit Amsterdam)
+* **Workshop Day**: Tuesday June 14th 2022 (2.00-5.30pm), virtually and in person ([HHAI](https://www.hhai-conference.org/), Vrije Universiteit Amsterdam)
 
 
 
@@ -36,28 +36,44 @@ This workshop is open to everyone and does not intend to be a one-off event. Our
   <center>
   <tr>
     <td style="text-align:center"><img src="assets/img/paola.jpg" height="175"></td>
-
+    <td style="text-align:center"><img src="assets/img/becky.jpg" height="175"></td>
 
 
   </tr>
   <tr>
-  <td style="text-align:center"><a href="http://eliassi.org/">Paola Ricaurte</a> <br> Tecnológico de Monterrey, Harvard </td>
+  <td style="text-align:center"><a href="https://cyber.harvard.edu/people/paola-ricaurte-quijano">Paola Ricaurte</a> <br> Tecnológico de Monterrey & Harvard <br><br> Paola's work work focuses on the critical study of digital technologies, conducting research on decoloniality, feminism and technology. Paola is an Associate Professor in the Department of Media and Digital Culture at Tecnológico de Monterrey, Mexico City and a digital rights activist. She is also a Faculty Associate at the Berkman Klein Center for Internet & Society at Harvard University.</td>
+  <td style="text-align:center"><a href="https://beckykazansky.net/about/">Becky Kazansky</a> <br> The Engine Room <br><br> Becky works at the intersection of technology, human rights, and social justice issues. Her expertise is in the sociotechnical dimensions of privacy, digital security, data justice, and automated systems. Becky works as the Research Lead at The Engine Room, overseeing research across the organization and leading a project exploring intersections between digital rights and climate and environmental justice.</td>
 
 
   </tr>
   </center>
   </table>
 
-### Panelists
 
-TBC!
+
 
 ### Organizers
 
-* [Bodgana Rakova](https://bobirakova.com/), Mozilla Foundation
-* [Roel Dobbe](https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/drir-rij-roel-dobbe), Delft University of Technology
-* [Maria Perez-Ortiz](http://mariaperezortiz.com/), University College London
-* [Ana Valdivia](https://www.avaldivia.com/), King's College London
+<table style="width:100%;border-bottom: 1px solid black;">
+  <center>
+  <tr>
+    <td style="text-align:center"><img src="assets/img/bogdana.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/ana.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/roel.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/maria2.jpg" height="175"></td>
+
+  </tr>
+  <tr>
+  <td style="text-align:center"><a href="https://bobirakova.com/">Bogdana Rakova</a> <br> Mozilla Foundation <br><br> Bogdana investigates the complex issues in the intersection of technology, people, jobs, equity, and inclusion. She has led projects that are driven by futures frameworks and enable new modes of AI and data governance in multiple industries. She is Senior Trustworthy AI Fellow at Mozilla. </td>
+  <td style="text-align:center"><a href="https://www.avaldivia.com/">Ana Valdivia</a> <br> King's College London <br><br>Ana is a Postdoctoral Researcher at King's College London (ERC Security Flows) where she explores how algorithms are impacting on non-privileged subjects from a technical, political and legal perspective. Her interest lies in investigating power relationships in algorithmic governance and how public and private actors are fueling the future with AI.</td>
+
+  <td style="text-align:center"><a href="https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/drir-rij-roel-dobbe">Roel Dobbe</a> <br> Delft Univ. of Technology <br> <br>Roel is an Assistant Professor working at the intersection of engineering, design and governance of data-driven and algorithmic control and decision-making systems. His research addresses the integration of data-driven technologies in societal infrastructure and institutions, with a focus on safety, sustainability and justice.</td>
+  
+    <td style="text-align:center"><a href="http://mariaperezortiz.com/">Maria Perez-Ortiz</a> <br> University College London <br> <br> Maria focuses on developing responsible AI models with an interdisciplinar perspective and connections to social and environmental sustainability, having worked in the last 10 years on biomedical, environmental and educational applications. She is Assistant Professor at the Department of Computer Science at UCL, where she is also working on bringing sustainability topics to computer science students. </td>
+
+  </tr>
+  </center>
+  </table>
 
 
 ### Contact
