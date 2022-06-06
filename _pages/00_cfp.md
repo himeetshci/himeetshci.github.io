@@ -6,6 +6,10 @@ desc_title: The (eco)systemic challenges in AI
 description: Introducing broader socio-technical and socio-ecological perspectives to the field of Artificial Intelligence
 ---
 
+[**Register here!**](https://bit.ly/3xgj1Ee)
+
+
+
 ### Workshop at HHAI'22
 
 For too long, algorithms have been perceived as simply abstract and value-neutral artifacts. However, this is far from true nowadays, as these are embedded in the world we live in and deeply interconnected with our social, cultural, political, economical and environmental systems, both in terms of their underpinnings and their impacts. The aim of this interdisciplinary workshop at the <a href="https://www.hhai-conference.org/">Hybrid Human-Artificial Intelligence Conference</a> is to put a spotlight on the need to introduce broader socio-technical and socio-ecological perspectives to the field of Artificial Intelligence (AI). We will leverage a Social-Ecological-Technical Systems approach considered in designing an algorithmic impact assessment process for a particular algorithmic system.
