@@ -36,60 +36,45 @@ This workshop is open to everyone and does not intend to be a one-off event. Our
 
 ### Speakers
 
+
+
 <table style="width:100%;border-bottom: 1px solid black;">
-  <center>
   <tr>
     <td style="text-align:center"><img src="assets/img/paola_ricaurte.jpg" height="175"></td>
-  
+    <td style="text-align:center"><img src="assets/img/becky.jpg" height="175"></td>  
 
   </tr>
   <tr>
   <td style="text-align:center"><a href="https://cyber.harvard.edu/people/paola-ricaurte-quijano">Paola Ricaurte</a> <br> Tecnológico de Monterrey & Harvard <br><br> 
     Paola Ricaurte is an Associate Professor in the Department of Media and Digital Culture at Tecnológico de Monterrey and a Faculty Associate at the Berkman Klein Center for Internet & Society at Harvard University. With Nick Couldry and Ulises Mejías, co-founded Tierra Común, a network to promote reflection on data colonialism from the global south. She is a member of the Alliance for Inclusive Algorithms and the Feminist Artificial Intelligence Research Network, FR. Her work focuses on the critical study of digital technologies from a decolonial and feminist perspective. Her research seeks to impact the development of policies and technologies by critically analyzing the implications of current ethical, economic, and political frameworks. She is interested in broadening the discussion about the social dimension of technology, its relationship to the environment, cultural diversity, and the plurality of knowledge.
 </td>
-  
+  <td style="text-align:center"><a href="https://beckykazansky.net/about/">Becky Kazansky</a> <br> The Engine Room <br><br> Becky Kazansky is a scholar and practitioner focused on advancing data justice. She is the Research Lead at The Engine Room, overseeing research across the organization and leading a project exploring intersections between digital rights and climate and environmental justice. Becky holds a PhD in media studies and political science from the University of Amsterdam, where she is currently a visiting researcher. Her academic scholarship is focused on the critical study of risk and anticipation in the context of surveillance, security, and climate change. She explores how civil society can upend hegemonic logics around prediction and the future(s).</td>  
 
   </tr>
-  </center>
   </table>
 
 
 
-<table style="width:100%;border-bottom: 1px solid black;">
-  <center>
-  <tr>
-    <td style="text-align:center"><img src="assets/img/becky.jpg" height="175"></td>
-
-
-  </tr>
-  <tr>
-  <td style="text-align:center"><a href="https://beckykazansky.net/about/">Becky Kazansky</a> <br> The Engine Room <br><br> Becky Kazansky works at the intersection of technology, human rights, and social justice issues. Her expertise is in the sociotechnical dimensions of privacy, digital security, data justice, and automated systems. Becky works as the Research Lead at The Engine Room, overseeing research across the organization and leading a project exploring intersections between digital rights and climate and environmental justice. She also serves as an independent advisor and consultant to civil society groups. Recently I’ve helped develop a harm modelling framework for a new technical standard, conducted external evaluations of NGO technology programs, contributed to the development of several educational digital security resources, and explored data governance issues with developers of online educational platform.</td>
-
-
-  </tr>
-  </center>
-  </table>
-
 
 <table style="width:100%;border-bottom: 1px solid black;">
-  <center>
   <tr>
     <td style="text-align:center"><img src="assets/img/tega.png" height="175"></td>
-
+    <td style="text-align:center"><img src="assets/img/lina.jpeg" height="175"></td>
 
   </tr>
   <tr>
   <td style="text-align:center"><a href="http://tegabrain.com/">Tega Brain</a> <br> New York University<br><br> 
    
-Tega Brain is an artist, environmental engineer, and researcher whose work intersects art, ecology, and engineering. As an artist, she makes dysfunctional devices, eccentric infrastructures and experimental information systems. She is an Assistant Professor at SUNY Purchase and holds degrees in environmental engineering and fine arts. She also contributes to open source software initiatives of the Processing Foundation. Her current research addresses the relationship between computational systems and the environment.  Her first book, Code as Creative Medium, is co authored with Golan Levin and published with MIT Press. 
+Tega Brain is an artist, environmental engineer, and researcher whose work intersects art, ecology, and engineering. As an artist, she makes dysfunctional devices, eccentric infrastructures and experimental information systems. She is an Assistant Professor at SUNY Purchase and holds degrees in environmental engineering and fine arts. She also contributes to open source software initiatives of the Processing Foundation. Her current research addresses the relationship between computational systems and the environment.  Her first book, Code as Creative Medium, is co authored with Golan Levin and published with MIT Press. </td>
 
+  <td style="text-align:center"><a href="https://www.innovation44.org/about-us">Lina Constantinovici</a> <br> Innovation 4.4<br><br> 
+ Lina Constantinovici is the Founder and CEO of Innovation 4.4, an organization focused on accelerating innovation needed to achieve the UN SDGs, with three oceans focused initiatives – an Oceans Prize, an Oceans Funders Knowledge Platform, and Ocean Technology Showcases for governments and corporations. Lina also serves on the Advisory Board of the United Nations Association San Francisco Chapter. Lina has spent the past 15 years building impact solutions as an innovator, entrepreneur, investor, family office and sustainability advisor. Lina has evaluated over 6,000 technologies, advised several hundred startups, and cofounded several. Lina is the Founding Co-Chair of the NEXUS Global Impact Investing Working Group, catalysing next generation investment capital. In 2013, Lina received the NASA/SSV Award in the Showcase of Solutions for Planetary Sustainability for Startup Nectar, the first in the world biomimetic technology incubator that she founded.
 
 </td>
 
 
 
   </tr>
-  </center>
   </table>
 
 
@@ -113,7 +98,7 @@ Tega Brain is an artist, environmental engineer, and researcher whose work inter
 
   <td style="text-align:center"><a href="https://www.tudelft.nl/tbm/over-de-faculteit/afdelingen/engineering-systems-and-services/people/assistant-professors/drir-rij-roel-dobbe">Roel Dobbe</a> <br> Delft Univ. of Technology <br> <br>Roel is an Assistant Professor working at the intersection of engineering, design and governance of data-driven and algorithmic control and decision-making systems. His research addresses the integration of data-driven technologies in societal infrastructure and institutions, with a focus on safety, sustainability and justice.</td>
   
-    <td style="text-align:center"><a href="http://mariaperezortiz.com/">Maria Perez-Ortiz</a> <br> University College London <br> <br> Maria's work aims to develop responsible AI models with an interdisciplinar perspective and connections to social and environmental sustainability. She is Assistant Professor at the AI Centre at UCL, where she is also working on bringing sustainability topics to computer science students. Maria also writes poems on tech and sustainability, see <a href="http://mariaperezortiz.com/poems.html">The future of AI is female</a>.</td>
+    <td style="text-align:center"><a href="http://mariaperezortiz.com/">Maria Perez-Ortiz</a> <br> University College London <br> <br> Maria's work aims to develop responsible AI models with an interdisciplinary perspective and connections to social and environmental sustainability. She is Assistant Professor at the AI Centre at UCL, where she is also working on bringing sustainability topics to computer science students. Maria also writes poems on tech and sustainability, see <a href="http://mariaperezortiz.com/poems.html">The future of AI is female</a>.</td>
 
   </tr>
   </center>
