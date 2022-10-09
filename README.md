@@ -1,2 +1,2 @@
-# ecosystemic-ai.github.io
-Website for the workshop "The (eco)systemic challenges in AI"
+# himeetshci.github.io
+Website for the workshop "HI meets HCI: Creating human-AI collaboration"
